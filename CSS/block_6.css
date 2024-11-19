@@ -1,0 +1,149 @@
+.block_6__name h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: #003366;
+    font-size: 42px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.block_6__containerForCard{
+    display: flex;
+    gap: 24px;
+}
+
+.block_6__card1{
+    border: 1px #003366 solid;
+    padding: 20px 80px 20px 20px;
+    display: flex;
+    gap: 20px;
+    border-radius: 12px;
+    width: 658px;
+    height: 223px;
+}
+
+.block_6__card1 h5{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #343434;
+    margin: 0;
+    margin-top: 2px;
+}
+
+.block_6__card1 h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #6B6B6B;
+    margin: 0;
+    margin-top: 2px;
+}
+
+.block_6__card1 p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #343434;
+    margin: 0;
+    margin-top: 16px;
+}
+
+.block_6__card2{
+    border: 1px #003366 solid;
+    padding: 20px 80px 20px 20px;
+    display: flex;
+    gap: 20px;
+    border-radius: 12px;
+    width: 658px;
+    height: 223px;
+}
+
+.block_6__card2 h5{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #343434;
+    margin: 0;
+    margin-top: 2px;
+}
+
+.block_6__card2 h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #6B6B6B;
+    margin: 0;
+    margin-top: 2px;
+}
+
+.block_6__card2 p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #343434;
+    margin: 0;
+    margin-top: 16px;
+}
+
+.block_6__sliderContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.slider {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 221px;
+    height: 56px;
+    border: 1px solid #d3dce6;
+    border-radius: 100px;
+    padding: 12px 14px;
+    gap: 30px;
+}
+
+.slider-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 0;
+}
+
+.slider-button.left {
+    background-color: #cfd8e3;
+}
+
+.slider-button.right {
+    background-color: #003366;
+}
+
+.slider-dashes {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.dash {
+    width: 20px; 
+    height: 4px; 
+    border-radius: 2px;
+    background-color: #cfd8e3;
+}
+
+.dash.active {
+    background-color: #003366;
+}

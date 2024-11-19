@@ -1,0 +1,120 @@
+
+.block_2 {
+    margin-top: 49px;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    width: 100vw;
+    height: 560px;
+    background-color: #E0E7EF;
+    padding-top: 70px;
+}
+.block_2__info{
+    color: #003366;
+    background-color: #FBFBFB;
+    text-transform: uppercase;
+    width: 1340px;
+    height: 123px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+.block_2__info h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    margin-left: 50px;
+}
+
+.block_2__card{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.card__1{
+    width: 431px;
+    height: 274px;
+    background-color: #FBFBFB;
+    text-align: center;
+}
+
+.card__1 img{
+    margin-top: 30px;
+}
+
+.card__1 h4{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    color: #003366;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.card__1 p{
+    margin-top: 12px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: #343434;
+}
+
+.card__2{
+    width: 431px;
+    height: 274px;
+    background-color: #FBFBFB;
+    text-align: center;
+}
+
+.card__2 img{
+    margin-top: 30px;
+}
+
+.card__2 h4{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    color: #003366;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.card__2 p{
+    margin-top: 12px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: #343434;
+}
+
+.card__3{
+    width: 431px;
+    height: 274px;
+    background-color: #FBFBFB;
+    text-align: center;
+}
+
+.card__3 img{
+    margin-top: 30px;
+}
+
+.card__3 h4{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    color: #003366;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.card__3 p{
+    margin-top: 12px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: #343434;
+}

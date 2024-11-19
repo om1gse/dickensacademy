@@ -1,0 +1,62 @@
+
+.block__1{
+    margin-top: 50px;
+    display: flex;
+    gap:24px;
+}
+
+.block_1__info{
+    background-color: #003366;
+    width: 889px;
+    height: 519px;
+    border-radius: 20px;
+}
+
+.container__text__1{
+    margin-left: 80px;
+    margin-top: 100px;
+}
+
+.big__text{
+    font-size: 48px;
+    line-height: 58px;
+    color: #FBFBFB;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.image__block__1{
+    width: 433px;
+    height: 519px;
+}
+
+.image__people1{
+    border-radius: 20px;
+}
+
+.container__text__2{
+    margin-top: 16px;  
+    margin-left: 80px;  
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FBFBFB;
+}
+
+.button__exploreCr{
+    margin-top: 40px;
+    background-color: #FBFBFB;
+    border-radius: 14px;
+    padding: 14px 20px;
+    font-size: 20px;
+}
+
+.button__link_exploreCr{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: #003366;
+    text-decoration: none;
+    width: 145px;
+    height: 30px;
+}

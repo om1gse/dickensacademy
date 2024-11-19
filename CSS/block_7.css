@@ -1,0 +1,124 @@
+.block_7__mainContainer{
+    display: flex;
+    gap: 24px;
+}
+
+.block_7__name h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: #003366;
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+.block_7__card1{
+    border: 1px #003366 solid;
+    display: flex;
+    padding: 40px;
+    gap:40px;
+    border-radius: 16px;
+    max-width: 694px;
+}
+
+.block_7__card1Text h5{
+    padding-bottom: 30px;
+    border-bottom: 1px #003366 solid;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #343434;
+    margin: 0;
+}
+
+.block_7__card1Img{
+    margin-top: 40px;
+}
+
+.block_7__card1Text p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #343434;
+}
+
+.block_7__card2{
+    max-width: 694px;
+    display: flex;
+    padding: 30px 40px 30px 40px;
+    border: 1px #003366 solid;
+    border-radius: 16px;
+    align-items: center;
+    height: 38px;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.block_7__card2Text h5{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #343434;
+}
+
+.block_7__card1Img{
+    margin: 0;
+}
+
+.block_7__form{
+    width: 544px;
+    max-height: 611px;
+    border-radius: 14px;
+    padding: 60px 60px 0px 60px;
+    background-color: #003366;
+}
+
+.block_7__title{
+    border-bottom: 1px #FBFBFB solid;
+}
+
+.block_7__title h4{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #FBFBFB;
+    text-transform: uppercase;
+    margin: 0;
+    padding-bottom: 40px;
+}
+
+.block_7__inputForm{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.block_7__inputForm input{
+    border-radius: 4px;
+    padding: 12px 14px;
+    color: #FBFBFB;
+    width: 424px;
+    height: 64px;
+    font-size: 20px;
+}
+
+.block_7__inputForm button{
+    width: 213px;
+    height: 58px;
+    border-radius: 14px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.block_7__inputForm a{
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #003366;
+}

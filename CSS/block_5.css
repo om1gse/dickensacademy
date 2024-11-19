@@ -1,0 +1,74 @@
+.block__5{
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    width: 100vw;
+    height: 350px;
+    background-color: #003366;    
+    display: flex;
+    justify-content: center;
+}
+
+.block__5 h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: #FBFBFB;
+    font-size: 42px;
+    line-height: 63px;
+    text-transform: uppercase;
+
+}
+
+.block__5 p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: #FBFBFB;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.block_5__container{
+    width: 1340px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.block_5__sheduleInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 24px;
+    margin-left: 24px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.block_5__sheduleInfo input{
+    margin: 0;
+    padding: 0;
+    gap: 8px;
+    border-radius: 4px;
+    width: 644px;
+    height: 62px;
+    font-size: 24px;
+    padding-left: 14px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+.block_5__sheduleInfo button{
+    width: 213px;
+    height: 58px;
+    border-radius: 14px;
+    margin-top: 40px;
+}
+
+.block_5__sheduleInfo a{
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #003366;
+}

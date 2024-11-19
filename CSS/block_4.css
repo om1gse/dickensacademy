@@ -1,0 +1,139 @@
+.block__4{
+    margin-bottom: 121px;
+}
+
+.block_4__container1{
+    border-radius: 20px;
+    border: 2px #003366 solid;
+    padding: 40px;
+}
+
+.block_4__container2{
+    border-radius: 20px;
+    border: 2px #003366 solid;
+    padding: 40px;
+    margin-top: 20px;
+}
+
+.block_4__name h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: #003366;
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+.block_4__level{
+    display: flex;
+    justify-content: space-between;
+}
+
+.block_4__learnMore{
+    display: flex;
+    gap: 5px;
+    font-size: 20px;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+.block_4__learnMore a{
+    text-decoration: none;
+    color: #343434;
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+.block_4_nameLevel{
+    display: flex;
+    gap: 14px;
+    align-items: center;
+}
+
+.block_4_nameLevel img{
+    width: 60px;
+    height: 60px;
+}
+
+.block_4__level h4{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: #003366;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.block_4__infoLearn{
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+.typeLearn{
+    display: flex;
+    gap: 8px;
+    border-radius: 45px;
+    background-color: #EFF3F7;
+    align-items: center;
+    width: 123px;
+    height: 47px;
+    justify-content: center;
+}
+
+.typeLearn img{
+    max-width: 24px;
+    max-height: 24px;
+}
+
+.block_4__description h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #003366;
+    text-transform: uppercase;
+}
+
+.block_4__description h2{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    color: #003366;
+    text-transform: uppercase;
+}
+
+.block_4__descriptionLevel{
+    color: #343434;
+}
+
+.block_4__descriptionLevel h5{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.block_4_descriptionLevelText img{
+    width: 24px;
+    height: 24px;
+}
+
+.block_4_descriptionLevelText{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.block_4__buttonJoin{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    background-color: #003366;
+    color: #FBFBFB;
+    border-radius: 14px;
+    width: 216px;
+    height: 58px;
+    font-weight: 400;
+    font-size: 20px;
+    padding: 14px 30px;
+}
